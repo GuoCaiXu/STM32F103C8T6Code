@@ -1,0 +1,9 @@
+Build target 'STCF103C8T6'
+compiling main.c...
+..\User\main.c(23): error:  #65: expected a ";"
+        while(1){
+..\User\main.c(33): warning:  #12-D: parsing restarts here after previous syntax error
+  }
+..\User\main.c: 1 warning, 1 error
+"..\Output\Èí¼þIIC¶ÁÐ´MPU6050.axf" - 1 Error(s), 1 Warning(s).
+Target not created.
